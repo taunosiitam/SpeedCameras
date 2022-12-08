@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Speed Cameras</string>
+    <string name="confirm_exit">Press back again to exit</string>
+    <string name="background_message">Speed Cameras is running in the background</string>
+</resources>
